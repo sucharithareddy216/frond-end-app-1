@@ -1,2 +1,5 @@
-# frond-end-app-1
-My second application on git hub
+# Hello world
+
+My first repository on git hub
+
+I love :coffee: :pizza: and :dance:
